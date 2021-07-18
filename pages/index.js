@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Comming Soon <code> How to code</code>
+          Coming Soon <code> How to code</code>
         </p>
       </main>
 
